@@ -49,3 +49,5 @@ This project demonstrates the effectiveness of deep learning approaches in tackl
 - NumPy, Pandas
 - Seaborn, Matplotlib
 
+## Data source: https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset/data
+
